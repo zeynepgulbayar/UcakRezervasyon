@@ -1,0 +1,70 @@
+Almanya,Berlin,Tegel Uluslararası Havalimanı
+Arjantin,Buenos Aires,Ministro Pistarini Uluslararası Havalimanı
+Avustralya,Sydney,Kingsford Smith Uluslararası Havalimanı
+Bahreyn,Manama,Bahreyn Uluslararası Havalimanı
+Bangladeş,Dakka,Hazrat Shahjalal Uluslararası Havalimanı
+Belçika,Brüksel,Brüksel Uluslararası Havalimanı
+Brezilya,Rio de Janeiro,Rio de Janeiro-Antonio Carlos Jobim Uluslararası Havalimanı
+Bulgaristan,Sofya,Sofya Uluslararası Havalimanı
+Çek Cumhuriyeti,Prag,Václav Havel Havalimanı
+Çin,Şanghay,Şanghay Pudong Uluslararası Havalimanı
+Danimarka,Kopenhag,Kopenhag Havalimanı
+Dominik Cumhuriyeti,Santo Domingo,Las Américas Uluslararası Havalimanı
+Filipinler,Manila,Ninoy Aquino Uluslararası Havalimanı
+Finlandiya,Helsinki,Helsinki-Vantaa Havalimanı
+Fransa,Paris,Charles de Gaulle Uluslararası Havalimanı
+Güney Afrika,Johannesburg,O.R. Tambo Uluslararası Havalimanı
+Güney Kore,Seul,Incheon Uluslararası Havalimanı
+Hindistan,Mumbai,Chhatrapati Shivaji Uluslararası Havalimanı
+Hollanda,Amsterdam,Amsterdam Schiphol Havalimanı
+İngiltere,Londra,Heathrow Havalimanı
+İrlanda,Dublin,Dublin Havalimanı
+İspanya,Madrid,Madrid-Barajas Havalimanı
+İsveç,Stockholm,Stockholm Arlanda Havalimanı
+İsviçre,Cenevre,Cenevre Uluslararası Havalimanı
+İtalya, Roma, Leonardo da Vinci-Fiumicino Havalimanı
+Japonya, Tokyo, Narita Uluslararası Havalimanı
+Kanada, Toronto, Toronto Pearson Uluslararası Havalimanı
+Kazakistan, Almatı, Almatı Uluslararası Havalimanı
+Kenya, Nairobi, Jomo Kenyatta Uluslararası Havalimanı
+Kırgızistan, Bişkek, Manas Uluslararası Havalimanı
+Kolombiya, Bogota, El Dorado Uluslararası Havalimanı
+Kosta Rika, San Jose, Juan Santamaria Uluslararası Havalimanı
+Kuveyt, Kuveyt Şehri, Kuveyt Uluslararası Havalimanı
+Letonya, Riga, Riga Uluslararası Havalimanı
+Litvanya, Vilnius, Vilnius Havalimanı
+Lübnan, Beyrut, Beyrut Rafik Hariri Uluslararası Havalimanı
+Meksika, Mexico City, Benito Juárez Uluslararası Havalimanı
+Mısır, Kahire, Kahire Uluslararası Havalimanı
+Moldova, Kişinev, Kişinev Uluslararası Havalimanı
+Nepal, Katmandu, Tribhuvan Uluslararası Havalimanı
+Nijerya, Lagos, Murtala Muhammed Uluslararası Havalimanı
+Norveç, Oslo, Oslo Gardermoen Havalimanı
+Özbekistan, Taşkent, Taşkent Uluslararası Havalimanı
+Pakistan, Karaçi, Karaçi Uluslararası Havalimanı
+Panama, Panama City, Tocumen Uluslararası Havalimanı
+Peru, Lima, Jorge Chavez Uluslararası Havalimanı
+Polonya, Varşova, Varşova Chopin Havalimanı
+Portekiz, Lizbon, Lizbon Portela Havalimanı
+Romanya, Bükreş, Henri Coanda Bükreş Uluslararası Havalimanı
+Rusya, Moskova, Domodedovo Uluslararası Havalimanı
+Senegal, Dakar, Blaise Diagne Uluslararası Havalimanı
+Singapur, Singapur, Changi Havalimanı
+Slovakya, Bratislava, M. R. Stefanik Havalimanı
+Slovenya, Ljubljana, Ljubljana Jože Pučnik Havalimanı
+Sri Lanka, Kolombo, Bandaranaike Uluslararası Havalimanı
+Sudan, Hartum, Hartum Uluslararası Havalimanı
+Suudi Arabistan, Cidde, Kral Abdulaziz Uluslararası Havalimanı
+Şili, Santiago, Santiago Uluslararası Havalimanı
+Tanzanya, Darüsselam, Julius Nyerere Uluslararası Havalimanı
+Tayland, Bangkok, Suvarnabhumi Havalimanı
+Tayvan, Taipei, Taoyuan Uluslararası Havalimanı
+Tunus, Tunus, Kartaca Uluslararası Havalimanı
+Türkiye, İstanbul, İstanbul Havalimanı
+Türkmenistan, Aşkabat, Aşkabat Uluslararası Havalimanı
+Ukrayna, Kiev, Borispol Uluslararası Havalimanı
+Umman, Muskat, Muskat Uluslararası Havalimanı
+Ürdün, Amman, Queen Alia Uluslararası Havalimanı
+Venezuela, Caracas, Simon Bolivar Uluslararası Havalimanı
+Vietnam, Ho Chi Minh City, Tan Son Nhat Uluslararası Havalimanı
+Yunanistan, Atina, Eleftherios Venizelos Uluslararası Havalimanı
